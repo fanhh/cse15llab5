@@ -22,7 +22,7 @@ I believe the input file number.txt is where things are going wrong, but I'm not
 Response from a TA
 Body:
 
-Hello! To better understand the issue, could you please run your Java program directly from the terminal with the command java square_number and share the output? This might give us more detailed error information. Additionally, ensure the file number.txt is in the same directory as your Java program and check its contents to confirm it only contains a number.
+Hello! ensure the file number.txt is in the same directory as your Java program and check its contents to confirm it only contains a number.
 
 Follow-up Post from the Student
 Body:
