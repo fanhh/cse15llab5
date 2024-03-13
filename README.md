@@ -4,9 +4,9 @@ Title: Issue with Running Java Program to Calculate Square of Number
 ##Body:
 Hello, I'm trying to run a Java program that reads a number from a file and prints its square. However, every time I try to run it with java and bash, I get a file not found error but the file does exist in my repo. I've attached a screenshot of the error and my terminal commands.
 
-##Screenshot: ![Image](step5.png)
-![Image](step5.png)
-![Image](step5.png)
+##Screenshot: ![Image](1.png)
+![Image](2.png)
+
 
 Guess at the bug: I suspect the issue might have something to do with how the file is being read because the error occurs when trying to execute the Java program. Perhaps the file number.txt isn't being found or read correctly. I used the run.sh script to compile and run my Java program.
 
